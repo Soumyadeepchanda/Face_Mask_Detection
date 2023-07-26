@@ -1,7 +1,5 @@
 # Face Mask Detection
 
-![Face Mask Detection](project_image.png)
-
 ## Table of Contents<br>
 - [About](#about)<br>
 - [Features](#features)<br>
@@ -24,17 +22,13 @@ Face Mask Detection is a deep learning project that aims to detect whether a per
 ## Installation<br>
 1. Clone the repository:<br>
 
-git clone https://github.com/your_username/Face_Mask_Detection.git
+git clone https://github.com/Soumyadeepchanda/Face_Mask_Detection.git
 
 2. Change the working directory:<br>
-
 
 3. Install the required dependencies:<br>
 
 pip install -r requirements.txt
-
-vbnet
-Copy code
 
 ## Usage<br>
 To use the face mask detection, you have two options:<br>
